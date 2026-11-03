@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Monitored YouTube channels</title>
+    <title>YouTube Watchlist</title>
     <link>https://www.youtube.com/</link>
     <description>Regular videos from the YouTube channels monitored by Hermes Agent. YouTube Shorts are excluded.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:54:50 GMT</lastBuildDate>
     <item>
       <title>Track Star* — Testing Parker Posey's Music Knowledge</title>
       <link>https://www.youtube.com/watch?v=6RcxSPNmWXI</link>
