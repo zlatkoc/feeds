@@ -13,11 +13,13 @@ history here is the history of the feeds.
 
 ## Subscribing
 
-Point a feed reader at the raw file:
+Point a feed reader at the GitHub Pages URL:
 
 ```
-https://raw.githubusercontent.com/zlatkoc/feeds/main/<file>.xml
+https://zlatkoc.github.io/feeds/<file>.xml
 ```
+
+For example: <https://zlatkoc.github.io/feeds/youtube-channels.xml>.
 
 ## Notes
 
