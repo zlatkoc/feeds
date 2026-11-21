@@ -5,7 +5,15 @@
     <link>https://www.youtube.com/</link>
     <description>Regular videos from the YouTube channels monitored by Hermes Agent. YouTube Shorts are excluded.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Event Modeling / Event Sourcing applied — How to Event Model complex UIs</title>
+      <link>https://www.youtube.com/watch?v=sK9wYn3aACM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=sK9wYn3aACM</guid>
+      <description>Video from Event Modeling / Event Sourcing applied: How to Event Model complex UIs</description>
+      <author>Event Modeling / Event Sourcing applied</author>
+      <pubDate>Fri, 20 Nov 2026 16:54:35 GMT</pubDate>
+    </item>
     <item>
       <title>Event Modeling / Event Sourcing applied — Refactoring the BDD-Garage example to Event Modeling and Event Sourcing using  AI</title>
       <link>https://www.youtube.com/watch?v=xRXKk3ZTij8</link>
@@ -1671,6 +1679,14 @@
       <pubDate>Tue, 14 Apr 2026 11:55:37 GMT</pubDate>
     </item>
     <item>
+      <title>BBC News — Top Comment — Viral 'Lego' creator admits relationship with Iranian government | Top Comment</title>
+      <link>https://www.youtube.com/watch?v=i5Q_v370OJg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=i5Q_v370OJg</guid>
+      <description>Video from BBC News — Top Comment: Viral 'Lego' creator admits relationship with Iranian government | Top Comment</description>
+      <author>BBC News — Top Comment</author>
+      <pubDate>Mon, 13 Apr 2026 20:30:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Club Carter Radio — Playing you songs you haven’t heard before | Club Carter Radio #57</title>
       <link>https://www.youtube.com/watch?v=6jeiIoDB_q8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=6jeiIoDB_q8</guid>
@@ -1789,6 +1805,14 @@
       <description>Video from The Analytical Cook: 3 Kitchen Design Principles to Build a Kitchen without Regrets</description>
       <author>The Analytical Cook</author>
       <pubDate>Fri, 27 Feb 2026 15:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBC News — Top Comment — Why Clavicular is misunderstood | Top Comment Podcast</title>
+      <link>https://www.youtube.com/watch?v=jZ4BBxSDhwY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jZ4BBxSDhwY</guid>
+      <description>Video from BBC News — Top Comment: Why Clavicular is misunderstood | Top Comment Podcast</description>
+      <author>BBC News — Top Comment</author>
+      <pubDate>Fri, 20 Feb 2026 20:00:40 GMT</pubDate>
     </item>
     <item>
       <title>OTR Food &amp; History — Holey Artisan Bakery: The Survivors of the Dhaka Massacre</title>
